@@ -10,6 +10,7 @@
   <name>Lectures_kp_2026</name>
   <modules>
     <module>primitives</module>
+    <module>StirngBufferThread</module>
   </modules>
 
   <properties>

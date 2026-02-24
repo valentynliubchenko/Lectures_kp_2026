@@ -16,6 +16,7 @@ public class Example {
         localVar2 = (int)b;
         boolean isActive = true;
         System.out.println("localVar2: " + localVar2);
+        System.out.println(Integer.MIN_VALUE);
     }
 
 }
