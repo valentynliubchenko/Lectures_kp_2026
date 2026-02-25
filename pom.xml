@@ -11,6 +11,8 @@
   <modules>
     <module>primitives</module>
     <module>StirngBufferThread</module>
+    <module>examplereference</module>
+    <module>examplesreferences</module>
   </modules>
 
   <properties>
