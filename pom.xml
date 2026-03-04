@@ -13,6 +13,7 @@
     <module>StirngBufferThread</module>
     <module>examplereference</module>
     <module>examplesreferences</module>
+    <module>fileexamles</module>
   </modules>
 
   <properties>
