@@ -7,16 +7,18 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>arrayexample</artifactId>
+    <artifactId>classobjects</artifactId>
     <packaging>jar</packaging>
 
-    <name>arrayexample</name>
+    <name>classobjects</name>
+    <url>http://maven.apache.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-    <dependencies>
 
+    <dependencies>
+        <!--        for logs-->
         <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
@@ -27,26 +29,27 @@
             <artifactId>logback-classic</artifactId>
             <version>1.5.15</version>
         </dependency>
+
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.36</version>
             <scope>provided</scope>
+
         </dependency>
-<!--    for unit test-->
+        <!--            for test-->
+
         <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter-api</artifactId>
             <version>5.11.1</version>
         </dependency>
+
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
             <version>3.27.3</version>
             <scope>test</scope>
         </dependency>
-
-
     </dependencies>
-
 </project>
