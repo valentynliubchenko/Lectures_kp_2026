@@ -16,6 +16,7 @@
     <module>fileexamles</module>
      <module>arrayexample</module>
     <module>classobjects</module>
+      <module>genericexamples</module>
   </modules>
 
   <properties>
