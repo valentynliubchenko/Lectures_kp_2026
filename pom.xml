@@ -17,6 +17,7 @@
      <module>arrayexample</module>
     <module>classobjects</module>
       <module>genericexamples</module>
+      <module>collectionexamples</module>
   </modules>
 
   <properties>
