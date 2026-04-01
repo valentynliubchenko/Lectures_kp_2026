@@ -25,7 +25,7 @@ public class IterableExamples {
         fruits.forEach(fruit -> System.out.println(fruit));
 
         // Приклад 4: Використання Iterator для модифікації колекції під час ітерації
-        //List<String> vegetables = Arrays.asList("Carrot", "Potato", "Cucumber", "Tomato");
+//        List<String> vegetables = Arrays.asList("Carrot", "Potato", "Cucumber", "Tomato");
         List<String> vegetables = new ArrayList<>(
                 Arrays.asList("Carrot", "Potato", "Cucumber", "Tomato")
         );
