@@ -18,6 +18,7 @@
     <module>classobjects</module>
       <module>genericexamples</module>
       <module>collectionexamples</module>
+      <module>threadexamples</module>
   </modules>
 
   <properties>
