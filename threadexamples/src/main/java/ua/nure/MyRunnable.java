@@ -6,7 +6,7 @@ public class MyRunnable implements Runnable {
         for (int i = 0; i < 5; i++) {
             System.out.println("Потік Runnable: " + i +" " + Thread.currentThread().getName());
             try {
-                Thread.sleep(1500);
+                Thread.sleep(150);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
