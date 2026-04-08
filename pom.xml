@@ -19,6 +19,7 @@
       <module>genericexamples</module>
       <module>collectionexamples</module>
       <module>threadexamples</module>
+      <module>threadsync</module>
   </modules>
 
   <properties>
