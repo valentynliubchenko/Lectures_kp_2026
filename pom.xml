@@ -20,6 +20,7 @@
       <module>collectionexamples</module>
       <module>threadexamples</module>
       <module>threadsync</module>
+      <module>threadExampleWait</module>
   </modules>
 
   <properties>
