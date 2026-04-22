@@ -21,6 +21,7 @@
       <module>threadexamples</module>
       <module>threadsync</module>
       <module>threadExampleWait</module>
+      <module>examplesUI</module>
   </modules>
 
   <properties>
