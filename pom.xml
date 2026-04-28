@@ -22,6 +22,7 @@
       <module>threadsync</module>
       <module>threadExampleWait</module>
       <module>examplesUI</module>
+      <module>exampleSocket</module>
   </modules>
 
   <properties>
