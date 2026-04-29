@@ -11,7 +11,7 @@ import java.nio.charset.StandardCharsets;
 public class ClientDataInputStream {
     public static void main( String[] args ) {
         System.out.println( "Client Started!" );
-        int port = 8081;
+        int port = 8083;
         try {
             Socket socket = new Socket(InetAddress.getLocalHost(),port);
             System.out.println( "Client conected!" );
